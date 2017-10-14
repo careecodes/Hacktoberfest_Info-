@@ -1,3 +1,5 @@
+<img src="https://pbs.twimg.com/media/DKwdYczWkAMboWx.jpg:large" style="width: 100%"/>
+
 # Hacktoberfest
 Learning how to do pull requests for Hacktoberfest!
 
