@@ -25,3 +25,6 @@ Hacktoberfest is a month-long celebration of open source software in partnership
 <p>To get a shirt, you must make four pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself. Pull requests reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt.</p>
 
 <a href="https://hacktoberfest.digitalocean.com/">For more information about Hacktoberfest, click here.</a>
+
+## I'm a newbie and idk how to contribute! How can I learn how to use Git and Github?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1h9_cB9mPT8" frameborder="0" allowfullscreen></iframe>
