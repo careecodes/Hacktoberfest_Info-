@@ -27,4 +27,4 @@ Hacktoberfest is a month-long celebration of open source software in partnership
 <a href="https://hacktoberfest.digitalocean.com/">For more information about Hacktoberfest, click here.</a>
 
 ## I'm a newbie and idk how to contribute! How can I learn how to use Git and Github?
-<a style="padding: 25px; background-color: navy; color: white;" href="https://www.youtube.com/embed/1h9_cB9mPT8">Check out this helpful Youtube series here</a>
+<a href="https://www.youtube.com/embed/1h9_cB9mPT8">Check out this helpful Youtube series here</a>
