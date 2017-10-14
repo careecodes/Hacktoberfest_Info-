@@ -29,3 +29,5 @@ Hacktoberfest is a month-long celebration of open source software in partnership
 
 <em>Go back to github.com and click on "Compare and pull request" and you are done!</em>
 
+## I'm a newbie and idk how to contribute! How can I learn how to use Git and Github?
+<a href="https://www.youtube.com/embed/1h9_cB9mPT8">Check out this helpful Youtube series here</a>
